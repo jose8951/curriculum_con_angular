@@ -1,0 +1,80 @@
+{
+  "titulos": [
+    {
+      "estado": "reglada",
+      "titulo": "Ciclo formativo de Grado Superior Desarrolo de aplicaciones WEB",
+      "centro": "Instituto de Educación Secundaria aguadulce",
+      "fecha": "18-06-2021"
+    },
+    {
+      "estado": "reglada",
+      "titulo": "Ciclo formativo de Grado Superior de Aplicaciones multiplataforma.",
+      "centro": "Instituto de Educación Secundaria aguadulce",
+      "fecha": "Falta una asignatura para terminar el Ciclo formativo."
+    },
+    {
+      "estado": "reglada",
+      "titulo": "TÉCNICO SUPERIOR EN SISTEMAS ELECTROTÉCNICOS Y AUTOMATIZADOS.",
+      "centro": "Instituto de Educación Secundaria San José Obrero",
+      "fecha": "13-05-1994"
+    }
+  ],
+  "trabajos": [
+    {
+      "empresa": "NOVASOFT INGENIERIA, S.L.",
+      "descripcion": "Mantenimiento de sistemas.   Montaje y reparación de sistemas informáticos.  Instalación  de red UTP y fibra. ",
+      "fecha": "01-08-2009"
+    },
+    {
+      "empresa": "VITELCOM  MOBILE TECHOLOGY S.A.",
+      "descripcion": "Técnico Especialista en montaje y reparación de componentes de telefonía móvil.",
+      "fecha": "01-08-2004"
+    },
+    {
+      "empresa": "Anovo - ADPG ETT, SL.",
+      "fecha": "01-02-2004",
+      "descripcion": "Técnico Especialista en  montaje y reparación   de  componentes de telefonía móvil"
+    },
+    {
+      "empresa": "COCA COLA S.A.",
+      "descripcion": "TCOCA COLA S.A.  Auxiliar de producción desempeñando funciones de supervisión y control de calidad.",
+      "fecha": "2003 – 2004"
+    },
+    {
+      "empresa": "FUJITSU ICL ESPAÑA S.A.",
+      "descripcion": "Montaje y reparaciones  de cajeros automáticos",
+      "fecha": "01-02-2004"
+    },
+    {
+      "empresa": "SAN MIGUEL FABRICA DE CERVEZA.",
+      "descripcion": "Auxiliar de producción en la cadena de montaje, desempeñando funciones de supervisión y control de calidad",
+      "fecha": "1996 – 1999"
+    }
+  ],
+  "cursos":[
+    {
+      "curso":"INGENIERÍA DEL SOFTWARE NATIVO PARA LA NUBE (IFCD106)",               
+      "centro":  "Centro Público de Formación Remedios Rojo",
+      "duracion":"210 horas"
+    },
+    {
+      "curso":"EXPERTO EN JAVA CON SPRING MVC",
+      "centro":  "Arelance",
+      "duracion":"210 horas"
+    },
+    {
+      "curso":"DESARROLLO WEB AVANZADO PHP",
+      "centro":  "Cenec",
+      "duracion":"60 horas"
+    },
+    {
+      "curso":"CERTIFICADO DE PROFESIONALIDAD: IFCT0410 - Administración y diseño de redes departamentales.",
+      "centro":  "Centro Liber Formación",
+      "duracion":"215 horas"
+    }
+
+    
+
+
+  ]
+}

@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="d-flex justify-content-center fs-1 m-3">
+      Mis Cursos
+    </div>
+
+    <div class="row">
+
+        <div class="col-3 marco">
+            <app-datos></app-datos>
+        </div>
+        <div class="col-9 marco">
+            <div class="row">
+                <div class="col-12">
+                  <div
+                    class="card contenedor_titulo"
+                    *ngFor="let dato of mostrar_cursos"
+                  >
+                    <div class="card-body titulo_principal">
+                        <div class="card-title fs-4">{{dato.curso}}</div>
+                        <div class="card-text"><strong>Centro: </strong>
+                          {{dato.centro}}
+                        </div>
+                        <div class="card-text">
+                          <strong>Duración: </strong>{{dato.duracion}}
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </div>
+    </div>
+
+</div>

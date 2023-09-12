@@ -1,0 +1,40 @@
+.fotocurriculum {
+ /* border: 1px solid gray;*/
+  background-color: #f4f4f4;
+}
+
+.fotocurriculum img {
+  border: 1px solid black;
+  border-radius: 50%;
+
+  width: 70%;
+  display: block;
+  margin: auto;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.contenido_github img {
+  border: none;
+  width: 6rem;
+}
+.contenido_github a { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-decoration: none;
+}
+
+.contenido_linkedin img {  
+  border: none;
+  width: 6rem;
+}
+.contenido_linkedin a { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-decoration: none;
+}

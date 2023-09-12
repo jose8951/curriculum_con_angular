@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="d-flex justify-content-center fs-1 m-3">
+    Mis Trabajos
+    </div>
+
+    <div class="row">
+        <div class="col-3 marco">
+          <app-datos></app-datos>
+        </div>
+    
+        <div class="col-9 marco">
+          <div class="row">
+            <div class="col-12">
+              <div
+                class="card contenedor_titulo" *ngFor="let dato of mostrar_trabajo"
+               
+              >
+                <div class="card-body titulo_principal">
+                  <div class="card-title fs-4">{{dato.empresa}}</div>
+                  <div class="card-text">
+                    {{dato.descripcion}}
+                  </div>
+                  <div class="card-text">
+                    <strong>Fecha de inicio: </strong>{{dato.fecha}}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
